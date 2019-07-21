@@ -1,6 +1,5 @@
 # Build
 dist
-xel.min.js
 
 # Sublime Text
 xel.sublime-workspace
